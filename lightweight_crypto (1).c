@@ -1,7 +1,4 @@
-/* Educational single-block encryption demo.
- * Define CRYPTO_SELF_TEST to build the known-answer test executable.
- * The lookup tables are not hardened against side-channel attacks.
- */
+
 #include <stdint.h>
 #include <string.h>
 
